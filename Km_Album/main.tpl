@@ -172,11 +172,11 @@ $(document).ready(function() {
 });
     function expand_block(block){
     if(block == 'contacts'){
-        $('#contacts_block').slideToggle();
+        //$('#contacts_block').slideToggle();
         $('#share_block').hide();
     }else{
         $('#share_block').slideToggle();
-        $('#contacts_block').hide();
+       // $('#contacts_block').hide();
     }
 }
 </script>
