@@ -914,3 +914,15 @@ border: 3px solid #fff;
 	display: block;
 	text-align: center;
 }
+.shr_buts {
+	list-style: none;
+	display: block;
+	width: 100%;
+}
+.shr_buts li {
+	margin: 2.5px;
+	display: inline;
+}
+.shr_buts li img {
+	max-width: 30px;
+}

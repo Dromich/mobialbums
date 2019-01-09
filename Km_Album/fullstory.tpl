@@ -39,9 +39,14 @@
                     <div ></div>
                     <div class="rightyash nav-expand">
                         <center><h3 class="share_text">Поділіться з друзями через:</h3></center>
-						<script type="text/javascript" src="//yastatic.net/es5-shims/0.0.2/es5-shims.min.js" charset="utf-8"></script>
-						<script type="text/javascript" src="//yastatic.net/share2/share.js" charset="utf-8"></script>
-						<div class="ya-share2" data-services="facebook,vkontakte,odnoklassniki,twitter,viber,whatsapp,telegram"></div>
+						<ul class="shr_buts">
+							<li><a href="#"><img src="{THEME}/img/icons/whatsapp.svg" alt="whatsapp"></a> </li>
+							<li><a href="#"><img src="{THEME}/img/icons/whatsapp.svg" alt="whatsapp"></a> </li>
+							<li></li>
+							<li></li>
+							<li></li>
+							<li></li>
+						</ul>
 </div>                              
 </div>
                
