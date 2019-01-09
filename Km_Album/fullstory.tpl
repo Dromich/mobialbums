@@ -40,12 +40,13 @@
                     <div class="rightyash nav-expand">
                         <center><h3 class="share_text">Поділіться з друзями через:</h3></center>
 						<ul class="shr_buts">
-							<li><a href="#"><img src="{THEME}/img/icons/whatsapp.svg" alt="whatsapp"></a> </li>
-							<li><a href="#"><img src="{THEME}/img/icons/whatsapp.svg" alt="whatsapp"></a> </li>
-							<li></li>
-							<li></li>
-							<li></li>
-							<li></li>
+							<li><a href="whatsapp://send?text={title}%20{full-link}" rel="nofollow" target="_blank" title="WhatsApp"><img src="{THEME}/img/icons/whatsapp_round.svg" alt="whatsapp"></a> </li>
+							<li><a href="viber://forward?text={title}%20{full-link}%23&amp;utm_source=share2" rel="nofollow" target="_blank" title="Viber"><img src="{THEME}/img/icons/viber_round.svg" alt="viber"></a> </li>
+							<li><a href="https://telegram.me/share/url?url={full-link}&amp;text={title}&amp;utm_source=share2" rel="nofollow" target="_blank" title="Telegram"><img src="{THEME}/img/icons/telegram_round.svg" alt="telegram"></a> </li>
+							<li><a href="http://vk.com/share.php?url={full-link}&amp;title={title}&amp;description={title}&amp;image=[xfvalue_image_url_topimg]&amp;utm_source=share2" rel="nofollow" target="_blank" title="VK"><img src="{THEME}/img/icons/vk.svg" alt="vk"></a> </li>
+							<li><a href="https://www.facebook.com/sharer.php?u={full-link}" rel="nofollow" target="_blank" title="Facebook"><img src="{THEME}/img/icons/facebook.svg" alt="facebook"></a> </li>
+							<li><a href="https://connect.ok.ru/dk?st.cmd=WidgetSharePreview&amp;st.shareUrl={full-link}%23&amp;utm_source=share2" rel="nofollow" target="_blank" title="Одноклассники"><img src="{THEME}/img/icons/odnoklassniki-logo.svg" alt="odnoklassniki"></a> </li>
+							
 						</ul>
 </div>                              
 </div>
