@@ -23,11 +23,9 @@
 	<!-- Header CSS (First Sections of Website: compress & paste after release from _header.css here) -->
 	<link rel="stylesheet" href="{THEME}/css/main.css">
     <!--link rel="stylesheet" href="{THEME}/css/highslide.css"-->
-    <link href="https://fonts.googleapis.com/css?family=Bad+Script" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Lobster|Open+Sans+Condensed:300" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Merriweather" rel="stylesheet"> 
-	<link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet">
-	<link href="https://fonts.googleapis.com/css?family=Comfortaa" rel="stylesheet"> 
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Fira+Mono|Gabriela" rel="stylesheet"> 
+	
     <link rel="stylesheet" href="{THEME}/css/lightgallery.min.css">
     <link  href="{THEME}/js/fotorama/fotorama.css" rel="stylesheet">
     

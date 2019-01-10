@@ -29,7 +29,7 @@
 
                 <div style="float:right; padding-top:6px;">
                   <a onclick="expand_block('share');" class="black_button">ПОДІЛИТИСЬ</a>
-                  <!--a onclick="expand_block('contacts');" class="black_button">ЗВ'ЯЗАТИСЬ</a-->
+                
                 </div>
      
                 <br clear="all"/>
@@ -38,12 +38,12 @@
                     
                     <div ></div>
                     <div class="rightyash nav-expand">
-                        <center><h3 class="share_text">Поділіться з друзями через:</h3></center>
+                        <center><h3 class="share_text">Відправте друзям через:</h3></center>
 						<ul class="shr_buts">
 							<li><a href="whatsapp://send?text={title}%20{full-link}" rel="nofollow" target="_blank" title="WhatsApp"><img src="{THEME}/img/icons/whatsapp_round.svg" alt="whatsapp"></a> </li>
-							<li><a href="viber://forward?text={title}%20{full-link}%23&amp;utm_source=share2" rel="nofollow" target="_blank" title="Viber"><img src="{THEME}/img/icons/viber_round.svg" alt="viber"></a> </li>
+							<li><a href="viber://forward?text={title}%20{full-link}&amp;utm_source=share2" rel="nofollow" target="_blank" title="Viber"><img src="{THEME}/img/icons/viber_round.svg" alt="viber"></a> </li>
 							<li><a href="https://telegram.me/share/url?url={full-link}&amp;text={title}&amp;utm_source=share2" rel="nofollow" target="_blank" title="Telegram"><img src="{THEME}/img/icons/telegram_round.svg" alt="telegram"></a> </li>
-							<li><a href="http://vk.com/share.php?url={full-link}&amp;title={title}&amp;description={title}&amp;image=[xfvalue_image_url_topimg]&amp;utm_source=share2" rel="nofollow" target="_blank" title="VK"><img src="{THEME}/img/icons/vk.svg" alt="vk"></a> </li>
+							<li><a href="https://vk.com/share.php?url={full-link}&amp;title={title}&amp;description={title}&amp;image=[xfvalue_image_url_topimg]&amp;utm_source=share2" rel="nofollow" target="_blank" title="VK"><img src="{THEME}/img/icons/vk.svg" alt="vk"></a> </li>
 							<li><a href="https://www.facebook.com/sharer.php?u={full-link}" rel="nofollow" target="_blank" title="Facebook"><img src="{THEME}/img/icons/facebook.svg" alt="facebook"></a> </li>
 							<li><a href="https://connect.ok.ru/dk?st.cmd=WidgetSharePreview&amp;st.shareUrl={full-link}%23&amp;utm_source=share2" rel="nofollow" target="_blank" title="Одноклассники"><img src="{THEME}/img/icons/odnoklassniki-logo.svg" alt="odnoklassniki"></a> </li>
 							
@@ -60,8 +60,8 @@
 
 <div  id="contacts_block" class="contact_infor">
 	<hr>
-	<div class="nav-expand"><i class="fa fa-fw fa-phone"></i> <a href="https://www.instagram.com/ksuha.romaniv/">Ксюха Романів</a></div>
-<div class="nav-expand"><i class="fa fa-fw fa-phone"></i> <a href="tel:80971640304">80971640304</a></div>
-<div class="nav-expand"><i class="fa fa-fw fa-at"></i> <a href="mailto:kumednaksuha@gmail.com">kumednaksuha@gmail.com</a></div>
+	<div class="nav-expand bot_copir"><a href="https://www.instagram.com/ksuha.romaniv/">Фотограф - Ксюха Романів ©  <span id="copir_date"></span></a></div>
+<div class="nav-expand bot_phone"> <a href="tel:0971640304">+38 (097) 164-03-04</a></div>
+<div class="nav-expand bot_mail"> <a href="mailto:kumednaksuha@gmail.com">kumednaksuha@gmail.com</a></div>
 						
 </div>
